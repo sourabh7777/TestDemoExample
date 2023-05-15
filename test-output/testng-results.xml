@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26" started-at="2023-05-11T09:43:04Z" finished-at="2023-05-11T09:43:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26" started-at="2023-05-11T09:43:04Z" finished-at="2023-05-11T09:43:04Z">
+      <class name="demo.jenkins.JenkinsDemo">
+        <test-method status="PASS" signature="TestFive()[pri:0, instance:demo.jenkins.JenkinsDemo@6093dd95]" name="TestFive" duration-ms="10" started-at="2023-05-11T15:13:04Z" finished-at="2023-05-11T15:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFive -->
+        <test-method status="PASS" signature="TestOne()[pri:0, instance:demo.jenkins.JenkinsDemo@6093dd95]" name="TestOne" duration-ms="1" started-at="2023-05-11T15:13:04Z" finished-at="2023-05-11T15:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOne -->
+        <test-method status="PASS" signature="TestFour()[pri:0, instance:demo.jenkins.JenkinsDemo@6093dd95]" name="TestFour" duration-ms="0" started-at="2023-05-11T15:13:04Z" finished-at="2023-05-11T15:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFour -->
+        <test-method status="PASS" signature="TestSix()[pri:0, instance:demo.jenkins.JenkinsDemo@6093dd95]" name="TestSix" duration-ms="0" started-at="2023-05-11T15:13:04Z" finished-at="2023-05-11T15:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSix -->
+        <test-method status="PASS" signature="TestThree()[pri:0, instance:demo.jenkins.JenkinsDemo@6093dd95]" name="TestThree" duration-ms="0" started-at="2023-05-11T15:13:04Z" finished-at="2023-05-11T15:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestThree -->
+        <test-method status="PASS" signature="TestTwo()[pri:0, instance:demo.jenkins.JenkinsDemo@6093dd95]" name="TestTwo" duration-ms="1" started-at="2023-05-11T15:13:04Z" finished-at="2023-05-11T15:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTwo -->
+      </class> <!-- demo.jenkins.JenkinsDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
